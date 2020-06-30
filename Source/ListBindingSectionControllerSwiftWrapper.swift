@@ -6,6 +6,7 @@
 //
 
 import Foundation
+import UIKit
 import IGListKit
 
 public protocol BindableViewModelType {
